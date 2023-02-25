@@ -1,6 +1,6 @@
 # Prerequisites
-
-Our work all conducted on the MMDetection toolkit.
+DLAHSD: Dynamic label adopted in auxiliary head for SAR detection. An efficient SAR-ship detector based on center point.
+Our work improvements and ablation experimental results all conducted on the MMDetection toolkit.
 MMDetection works on Linux, Windows. It requires Python 3.7+, CUDA 9.2+ and PyTorch 1.5+.
 
 # Installation
