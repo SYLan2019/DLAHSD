@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/work_dirs/atss_r50_fpn_1x_coco/20221111_004649.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_r50_trungle/20221213_004300.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20220707_151258.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20220707_220328.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20220713_155029.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20220716_160343.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20221110_101439.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20221110_103237.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20221110_115700.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20221110_132815.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet18/20221110_135931.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/centernet_resnet50/20220713_171611.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/dh_faster_rcnn_r50_fpn_1x_coco/20221112_103405.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/faster_rcnn_r50_fpn_1x_coco/20221111_172222.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/mobileneck_resnet50/20220707_181354.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/mobileneck_resnet50/20220708_123201.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/mobileneck_resnet50/20221112_002520.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/mobileoneNet(centernet)/20220707_161451.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/resnet18+mobileneck+trungle/20220707_230032.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/resnet18+mobileneck+trungle/20220708_132722.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/yolov3_d53/20220713_103131.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/work_dirs/yolox_s_8x8_300e_coco/20221110_161038.log" charset="GBK" />
+  </component>
+</project>
