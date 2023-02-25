@@ -35,6 +35,16 @@ git clone https://github.com/open-mmlab/mmdetection.git
 cd mmdetection
 pip install -v -e .
 ```
+#Dataset 
+
+SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis
+https://drive.google.com/file/d/1glNJUGotrbEyk43twwB9556AdngJsynZ/view?usp=sharing
+https://pan.baidu.com/s/1Lpg28ZvMSgNXq00abHMZ5Q password: 2021
+
+The dataset is organized in coco form and stored in DLAHSD\Official-SSDD-OPEN\BBox_SSDD\coco_style as follows:
+```shell
+
+
 # Train
 DLAHSD training shell
 ```shell
