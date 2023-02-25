@@ -36,7 +36,7 @@ cd mmdetection
 pip install -v -e .
 ```
 # Train
-Our SAR Detector training shell
+DLAHSD training shell
 ```shell
 cd ../DLAHSD
 python tools/train.py work_dirs/DLAHSD/DHALSD.py
